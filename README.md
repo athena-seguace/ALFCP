@@ -1,6 +1,6 @@
 # Analysis of Lissajous Figures in a Coupled Pendulum System
 
-This is a student-made experimental setup for the General Properties of Matter Laboratory, Department of Physics, IIT Kharagpur.
+This is a simulatino setup for the General Properties of Matter Laboratory, Department of Physics, IIT Kharagpur.
 
 
 It was prepared as a simple demonstration for future lab use.
